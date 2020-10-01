@@ -13,4 +13,4 @@ Run doublespend.py to generate double spend data and update the static website.
 
 # The website
 The website itself consists of only static files. Point the webserver to serve files in folder site/
-
+# this is a cool & amazing website for Bitcoin Ulimited node
